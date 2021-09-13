@@ -45,5 +45,5 @@ Please have this environment prepared ahead of time if you'll be using your own 
 > Don't forget to activate your environment first!
 
 ## :speech_balloon: Acknowledgements
-The JupyterHub for this workshop is part of the [National Science Foundation](https://www.nsf.gov/) (NSF) funded [Unidata Science Gateway](https://doi.org/10.5065/688s-2w73) (under NSF Award [1901712](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1901712)).
+The JupyterHub for this workshop is part of the [National Science Foundation](https://www.nsf.gov/) (NSF) funded [Unidata Science Gateway](https://doi.org/10.5065/688s-2w73) (doi:10.5065/688s-2w73) (under NSF Award [1901712](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1901712)).
 We thank Andrea Zonca (San Diego Supercomputing Center), Jeremy Fischer (Indiana University), the NSF funded [Jetstream](https://dx.doi.org/10.1145/2792745.2792774) team, and the NSF funded XSEDE [Extended Collaborative Support Service](https://doi.org/10.1007/978-3-319-32243-8_1) (ECSS) program for assistance with this JupyterHub.
